@@ -1,3 +1,3 @@
-const podcast = require("./Podcast");
+const transaction = require("./Transaction");
 
-module.exports = [podcast];
+module.exports = [transaction];
